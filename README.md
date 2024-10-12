@@ -1,16 +1,36 @@
-### Hi there 👋
+# 👋 Hi there! I'm Cole!
 
-<!--
-**ColeChiodo/colechiodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science Student based in the San Francisco Bay Area.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Finding a job.
+- 🌱 I’m learning PyTorch, NLTK.
+- 📫 How to reach me: colechiodo@gmail.com
+- ⚡ Fun fact: I like to play bass.
+
+## 🔧 Technologies & Tools
+
+![Your Tech Stack](https://img.shields.io/badge/Tech-Stack-Informational?style=flat&logo=YourLogo&logoColor=white)
+- Languages: Java, C#, C++, C, Python, HTML, CSS, JavaScript
+- Frameworks: React, Nodejs, Express
+- Databases: MySQL Workbench
+
+## 🌟 Projects
+
+Here are some of my favorite projects:
+
+- [TeamUp](https://github.com/ColeChiodo/TeamUp) - Full-Stack Web App.
+- [prjctb](https://github.com/OrangesnCream/BulletHellRPG) - Bullet Hell made in Unity.
+  - Play it [Here](https://orangesandcrema.itch.io/prjctb)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColeChiodo&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/colechiodo)
+- [Instagram](https://www.instagram.com/colechiodo)
+
+Thank you for visiting my profile! Feel free to check out my projects and get in touch!
