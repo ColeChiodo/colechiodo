@@ -24,9 +24,9 @@ Here are some of my favorite projects:
 - [prjctb](https://github.com/OrangesnCream/BulletHellRPG) - Bullet Hell made in Unity using **C#**.
   - Play it [Here](https://orangesandcrema.itch.io/prjctb)
 - [Airport Management System](https://github.com/ColeChiodo/Airport-Management-System) - Database System with Discord Bot Interface using **MySql Workbench**.
-- [Codenames Clone](./) - Real-Time Multiplayer game using **Nodejs**, **Expressjs**, **PostgreSQL**.
-- [Custom Language Compiler](./) - Custom Programing Language Compiler written in **Java**.
-- [Linux File System](./) - Linux File System with Shell Interface written in **C**.
+- [Codenames Clone](./) - Real-Time Multiplayer game using **Nodejs**, **Expressjs**, **PostgreSQL**. (WIP)
+- [Custom Language Compiler](./) - Custom Programing Language Compiler written in **Java**. (WIP)
+- [Linux File System](./) - Linux File System with Shell Interface written in **C**. (WIP)
 
 ## 📈 GitHub Stats
 
