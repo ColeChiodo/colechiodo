@@ -13,16 +13,20 @@ Welcome to my GitHub profile! I'm a Computer Science Student based in the San Fr
 
 ![Your Tech Stack](https://img.shields.io/badge/Tech-Stack-Informational?style=flat&logo=YourLogo&logoColor=white)
 - Languages: Java, C#, C++, C, Python, HTML, CSS, JavaScript
-- Frameworks: React, Nodejs, Express
-- Databases: MySQL Workbench
+- Frameworks: React, Nodejs, Expressjs
+- Databases: MySQL Workbench, PostgreSQL
 
 ## 🌟 Projects
 
 Here are some of my favorite projects:
 
-- [TeamUp](https://github.com/ColeChiodo/TeamUp) - Full-Stack Web App.
-- [prjctb](https://github.com/OrangesnCream/BulletHellRPG) - Bullet Hell made in Unity.
+- [TeamUp](https://github.com/ColeChiodo/TeamUp) - Full-Stack Web App using **React**.
+- [prjctb](https://github.com/OrangesnCream/BulletHellRPG) - Bullet Hell made in Unity using **C#**.
   - Play it [Here](https://orangesandcrema.itch.io/prjctb)
+- [Airport Management System](https://github.com/ColeChiodo/Airport-Management-System) - Database System with Discord Bot Interface using **MySql Workbench**.
+- [Codenames Clone](./) - Real-Time Multiplayer game using **Nodejs**, **Expressjs**, **PostgreSQL**.
+- [Custom Language Compiler](./) - Custom Programing Language Compiler written in **Java**.
+- [Linux File System](./) - Linux File System with Shell Interface written in **C**.
 
 ## 📈 GitHub Stats
 
