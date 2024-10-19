@@ -25,8 +25,7 @@ Here are some of my favorite projects:
   - Play it [Here](https://orangesandcrema.itch.io/prjctb)
 - [Airport Management System](https://github.com/ColeChiodo/Airport-Management-System) - Database System with Discord Bot Interface using **MySql Workbench**.
 - [Codenames Clone](./) - Real-Time Multiplayer game using **Nodejs**, **Expressjs**, **PostgreSQL**. (WIP)
-- [Custom Language Compiler](./) - Custom Programing Language Compiler written in **Java**. (WIP)
-- [Linux File System](./) - Linux File System with Shell Interface written in **C**. (WIP)
+- [Custom Language Compiler](https://github.com/ColeChiodo/Custom-Compiler) - Custom Programing Language Compiler written in **Java**.
 
 ## 📈 GitHub Stats
 
