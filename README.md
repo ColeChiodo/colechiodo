@@ -5,26 +5,28 @@ Welcome to my GitHub profile! I'm a Computer Science Student based in the San Fr
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Finding a job.
-- 🌱 I’m learning PyTorch, NLTK.
 - 📫 How to reach me: colechiodo@gmail.com
 - ⚡ Fun fact: I like to play bass.
 
 ## 🔧 Technologies & Tools
 
 ![Your Tech Stack](https://img.shields.io/badge/Tech-Stack-Informational?style=flat&logo=YourLogo&logoColor=white)
-- Languages: Java, C#, C++, C, Python, HTML, CSS, JavaScript
+- Languages: Java, C#, C++, C, Python, HTML, CSS, JavaScript, TypeScript
 - Frameworks: React, Nodejs, Expressjs
-- Databases: MySQL Workbench, PostgreSQL
+- Databases: MySQL Workbench, PostgreSQL, MongoDB
 
 ## 🌟 Projects
 
 Here are some of my favorite projects:
 
-- [TeamUp](https://github.com/ColeChiodo/TeamUp) - Full-Stack Web App using **React**.
+- [PvP Strategy Game](https://github.com/ColeChiodo/pvpstrategygame) - Turn Based PvP Multiplayer Strategy Game using **Nodejs**, **Expressjs**, **WebSockets**, and a **NoSql Database**.
+ - Play it [Here](https://pvpstrategygame.onrender.com/)
+- [Deep Learning Model for Political Tweet Classification](https://github.com/MattRStoffel/671_Project) - Deep Neural Network with pre-trained **BERT** model embeddings to classify political tweets as Democrat or Republican using **PyTorch**.
+ - Read the Report [Here](https://drive.google.com/file/d/1xuT9A6-oeRX8NGmkq5JquEMpEzqtg_-8/view)
+- [TeamUp](https://github.com/ColeChiodo/TeamUp) - Frontend Developer for Full-Stack Web App using **React** and **TailwindCSS**.
 - [prjctb](https://github.com/OrangesnCream/BulletHellRPG) - Bullet Hell made in Unity using **C#**.
   - Play it [Here](https://orangesandcrema.itch.io/prjctb)
 - [Airport Management System](https://github.com/ColeChiodo/Airport-Management-System) - Database System with Discord Bot Interface using **MySql Workbench**.
-- [Codenames Clone](./) - Real-Time Multiplayer game using **Nodejs**, **Expressjs**, **PostgreSQL**. (WIP)
 - [Custom Language Compiler](https://github.com/ColeChiodo/Custom-Compiler) - Custom Programing Language Compiler written in **Java**.
 
 ## 📈 GitHub Stats
