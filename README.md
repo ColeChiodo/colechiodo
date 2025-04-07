@@ -19,10 +19,12 @@ Welcome to my GitHub profile! I'm a Computer Science Student based in the San Fr
 
 Here are some of my favorite projects:
 
+- [OpenGL FPS](https://github.com/ColeChiodo/opengl_game) - FPS Multiplayer Shooter from scratch using **C++** and **OpenGL**. WIP
 - [PvP Strategy Game](https://github.com/ColeChiodo/pvpstrategygame) - Turn Based PvP Multiplayer Strategy Game using **Nodejs**, **Expressjs**, **WebSockets**, and a **NoSql Database**.
-  - Play it [Here](https://pvpstrategygame.onrender.com/)
+  - Play it [Here](https://fortezzatactics.online/)
 - [Deep Learning Model for Political Tweet Classification](https://github.com/MattRStoffel/671_Project) - Deep Neural Network with pre-trained **BERT** model embeddings to classify political tweets as Democrat or Republican using **PyTorch**.
   - Read the Report [Here](https://drive.google.com/file/d/1xuT9A6-oeRX8NGmkq5JquEMpEzqtg_-8/view)
+- [Beat 'em Up Game](https://github.com/ColeChiodo/GodotGame) - Beat 'em up game made in **Godot**.
 - [TeamUp](https://github.com/ColeChiodo/TeamUp) - Frontend Developer for Full-Stack Web App using **React** and **TailwindCSS**.
 - [prjctb](https://github.com/OrangesnCream/BulletHellRPG) - Bullet Hell made in Unity using **C#**.
   - Play it [Here](https://orangesandcrema.itch.io/prjctb)
