@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a Computer Science Student based in the San Fr
 Here are some of my favorite projects:
 
 - [OpenGL FPS](https://github.com/ColeChiodo/opengl_game) - FPS Multiplayer Shooter from scratch using **C++** and **OpenGL**. WIP
+- [DLSS Clone](https://github.com/ColeChiodo/dlss_clone) - Clone of NVIDIA's Deep Learning Super Sampling using **PyTorch**. To be used in OpenGL FPS. WIP
 - [PvP Strategy Game](https://github.com/ColeChiodo/pvpstrategygame) - Turn Based PvP Multiplayer Strategy Game using **Nodejs**, **Expressjs**, **WebSockets**, and a **NoSql Database**.
   - Play it [Here](https://fortezzatactics.online/)
 - [Deep Learning Model for Political Tweet Classification](https://github.com/MattRStoffel/671_Project) - Deep Neural Network with pre-trained **BERT** model embeddings to classify political tweets as Democrat or Republican using **PyTorch**.
